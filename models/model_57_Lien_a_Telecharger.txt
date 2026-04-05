@@ -1,0 +1,8 @@
+1/ Lien pour télécharger le fichier model_57.h5
+
+https://drive.google.com/file/d/157e_2Pvv-7tMk7WGwfLPOcueLCTObjU4/view?usp=sharing
+
+
+2/ Lien pour télécharger le fichier model_57.keras
+
+https://drive.google.com/file/d/1jo5eVd9nR-zZ9C1VY8P31BKHS6L2f1Ir/view?usp=sharing
