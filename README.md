@@ -21,6 +21,7 @@ Optimiser les performances du modèle
 📊 Données
 
 Dataset : Rakuten 
+
 Type de données :
   Texte (titres, descriptions), 
   Images 
