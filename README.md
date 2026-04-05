@@ -3,9 +3,9 @@
 Projet réalisé par Thuy Duong PHAM, en collaboration avec Christel BON et Laurent FAN
 
 📁 Structure du projet
-├── reports/           # Rapport du projet
-├── notebooks/         # Analyses exploratoires et expérimentations
 ├── models/            # Modèles entraînés
+├── notebooks/         # Analyses exploratoires et expérimentations
+├── reports/           # Rapport du projet
 ├── streamlit          # App streamlit pour visualiser/expliquer le projet
 └── README.md
 
