@@ -37,13 +37,13 @@ Traitement des images (redimensionnement, normalisation)
 
 🔹 Modèles utilisés
 
-📌 Machine Learning pour textes
+📌 Machine Learning pour textes:
 Logistic Regression, Linear SVC, Naive Bayes, Random Forest, Gradient Boosting
 
-📌 Machine Learning pour images
+📌 Machine Learning pour images:
 Logistic Regression, Random Forest, KNN
 
-📌 Deep Learning pour images
+📌 Deep Learning pour images:
 CNN personnalisés
 
 📈 Résultats
