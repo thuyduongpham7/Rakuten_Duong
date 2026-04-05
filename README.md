@@ -9,7 +9,8 @@ Projet réalisé par Thuy Duong PHAM, en collaboration avec Christel BON et Laur
 ├── streamlit          # App streamlit pour visualiser/expliquer le projet
 └── README.md
 
-🎯 Objectifs
+🎯 Objectifs:
+
 Prédire la catégorie (code produit) d’un produit à partir des textes et images
 
 Comparer différentes approches :
@@ -50,7 +51,9 @@ CNN personnalisés
 
 📈 Résultats
 Modèle	                        F1-score
+
 Linear SVC (pour textes)	      81%
+
 CNN personnalisé (pour images)	44%
 
 👉 Meilleur modèle : Linear SVC (pour textes)
