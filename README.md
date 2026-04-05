@@ -31,8 +31,9 @@ Nombre de classes : 27
 ⚙️ Méthodologie
 
 🔹 Préprocessing
-Nettoyage du texte (suppression des stopwords, caractères spéciaux…)
-Vectorisation (TF-IDF)
+
+Nettoyage du texte (suppression des stopwords, caractères spéciaux…),
+Vectorisation (TF-IDF),
 Traitement des images (redimensionnement, normalisation)
 
 🔹 Modèles utilisés
