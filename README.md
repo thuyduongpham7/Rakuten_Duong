@@ -13,7 +13,7 @@ Projet réalisé par Thuy Duong PHAM, en collaboration avec Christel BON et Laur
 Prédire la catégorie (code produit) d’un produit à partir des textes et images
 
 Comparer différentes approches :
-  Machine Learning classique
+  Machine Learning classique,
   Deep Learning
   
 Optimiser les performances du modèle
@@ -22,10 +22,10 @@ Optimiser les performances du modèle
 
 Dataset : Rakuten 
 Type de données :
-  Texte (titres, descriptions)
+  Texte (titres, descriptions), 
   Images 
   
-Nombre d’observations : 85K
+Nombre d’observations : 85K ,
 Nombre de classes : 27
 
 ⚙️ Méthodologie
