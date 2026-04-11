@@ -1,4 +1,6 @@
 # Rakuten_Duong
+PROJET DATA SCIENCE: Classification avec Machine Learning et Deep Learning
+
 👤 Auteur
 Projet réalisé par Thuy Duong PHAM, en collaboration avec Christel BON et Laurent FAN
 
