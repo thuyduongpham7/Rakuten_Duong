@@ -56,7 +56,7 @@ Modèle	                        F1-score
 
 Linear SVC (pour textes)	      81%
 
-CNN personnalisé (pour images)	44%
+CNN personnalisé (pour images)	41%
 
 👉 Meilleur modèle : Linear SVC (pour textes)
 👉 Score final : 81%
